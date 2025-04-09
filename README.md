@@ -1,6 +1,6 @@
 # MobileProgrammingWithJavaHomeWorks
 ## <u>***ODEV 1 ile ilgili görseller***</u>
-![Ekran Görüntüsü](images/odev1.1.jpeg)
+<img src="images/odev1.1.jpeg" alt="Ekran Görüntüsü" width="100"/>
 ## <u>***ODEV 2 ile ilgili görseller***</u>
 ![Ekran Görüntüsü](images/odev2.1.jpeg)
 ![Ekran Görüntüsü](images/odev2.2.jpeg)
